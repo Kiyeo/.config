@@ -1,0 +1,16 @@
+{
+  "commands": {
+    "%2Fhome%2Fleo%2F": {
+      "config%2Fnvim": [
+        ":q"
+      ]
+    }
+  },
+  "outline": {
+    "%2Fhome%2Fleo%2F": {
+      "config%2Fnvim": [
+        "?kfd"
+      ]
+    }
+  }
+}
