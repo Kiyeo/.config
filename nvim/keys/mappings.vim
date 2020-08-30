@@ -1,4 +1,9 @@
- " Better nav for omnicomplete
+" Reload init.vim file
+nnoremap <leader>rl :so ~/.config/nvim/init.vim<CR>
+" Shortcut to init.vim file that loads it into buffer
+nnoremap <leader>rm :e ~/.config/nvim/init.vim<CR>
+
+" Better nav for omnicomplete
 inoremap <expr> <c-j> ("\<C-n>")
 inoremap <expr> <c-k> ("\<C-p>")
 

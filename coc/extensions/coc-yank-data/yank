@@ -259,3 +259,139 @@ b01bd32f7beb40a2bc963d466ae8c918|file:///home/leo/.config/nvim/init.vim|4|23|v|v
 	Adding 123 to asf gives you xxx.
 77c4878d5e2c398b9df6356e6277b948|file:///home/leo/.config/nvim/init.vim|4|1|V|vim
 	source ~/.config/nvim/themes/space-vim-dark.vim
+d436eb0fd9de10b54a828ce6435f7e81|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|1|1|V|cpp
+	include
+42880eda4a47df1c9d8e2b544a96083d|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|6|1|v|cpp
+	  cout << "Hello world";
+	  return 0;
+69aacb05d407b353675614c3ef0b5f8c|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|2|1|V|cpp
+	std::cout
+09782e2477e1049a344e8c098b561c26|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|1|9|v|cpp
+	<stdio.h>
+0eecf5d28a6851ed24fa23df86bcb2aa|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|7|1|V|cpp
+	  cout << "Hello world\n";
+c0c30a706da785a1d24d4cd9e7c01bb0|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|8|1|V|cpp
+	  istream input ("input.txt");
+	  return 0;
+3f9178c25b78ed8bed19091bcb62e266|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|9|7|v|cpp
+	condition
+88314d6fa58e4a4b8c2f27001c07afd0|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|10|3|V|cpp
+	  statements
+099fb995346f31c749f6e40db0f395e3|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|3|11|v|cpp
+	header
+742597f140d99383c09ffb3e18b20d45|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|11|22|V|cpp
+	    while(getline(input,line)){
+	      cout << line << '\n';
+	    }
+20cdd879f4dcfb6fb4d7de18d7e464ff|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|7|3|v|cpp
+	string 
+4d3b1c26969dcdf241d0d8de8bf91aeb|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|10|29|v|cpp
+	c_str
+3031885885f3ba054e3471fda46d9caf|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|7|7|v|cpp
+	gnt 
+e0742a7913d9df7412eb286c5bee78ac|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|7|1|v|cpp
+	tringnt 
+fffc444f4e4ee97f63d9c5dd2af54559|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|10|19|v|cpp
+	stoi
+368992178a3230ebc8890f2397275cbf|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|11|18|V|cpp
+	    cout << lines;
+	    input.close();
+f2b1d6d0cbdd285b174dc09821ec3b83|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|8|10|v|cpp
+	typename _Tp
+ccbee73cd81c7f42405e1920409247ec|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|13|7|v|cpp
+	paris
+53e61336bb49ec978968786b07dea50b|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|13|23|v|cpp
+	results
+77933e92e943d5ded452a293ef451f3e|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|14|5|V|cpp
+	    for (int result; getline(input, lines); result = stoi(lines)) {
+a7ed2dd35a6d1e98fcefd4b8ca4e958a|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|13|5|V|cpp
+	    for (int result; getline(input, lines); result = stoi(lines)) {
+	    int noOfLines = stoi(lines);
+	      pairs.push_back(result);
+	    }
+	  }
+	  return 0;
+	}
+	
+62fd3f87581663e4371e40eb51d66e76|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|13|5|v|cpp
+	for 
+9f3edf63e0b7551daea6f7ace0ee656e|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|13|5|v|cpp
+	(int 
+fa85e191086f050066fe5642fbb896fc|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|13|5|v|cpp
+	result; 
+f617bf4332127dbac47b1b6bfc54988c|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|13|25|v|cpp
+	); result = stoi(lines)) {
+ea5a1cbe764918679997181a3ea281d3|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|16|5|V|cpp
+	    }
+6ca035f5964895446642e24fd0e82550|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|15|10|v|cpp
+	init-statement
+ea4583507ee2b3019c1472cb81be9072|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|14|5|V|cpp
+	    int noOfLines = stoi(lines);
+984a186b11e66e2c31a84272656f7c8b|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|15|5|v|cpp
+	int noOfLines = stoi(lines);
+	    s
+26542fb18a8b14c9775aa475f23c909f|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|14|39|v|cpp
+	cond
+ccbc1113d8207a03da207ca48957f3e7|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|14|39|v|cpp
+	iion
+c297a59e67f9e7b9ee60e399db7e825e|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|14|54|v|cpp
+	inc-expression
+0cf31b2c283ce3431794586df7b0996d|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|15|1|v|cpp
+	    
+f52ceeba305a64ab1e3b59fcd77fbf53|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|15|1|v|cpp
+	statements
+9bbebf34a99fb0228fdd57610c261a21|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|17|7|V|cpp
+	      pairs.push_back(result
+7f113e18fff8e9f4adcc1c5058d79c03|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|16|7|V|cpp
+	      pairs.push_back(lines);
+80bf99197694c544eb7efc16aa1fda49|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|19|11|v|cpp
+	condition;
+48427bb655ed7da439b4440a1ae58795|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|19|3|V|cpp
+	  for
+2d919de77a4641043a757e1a1f042457|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|20|14|v|cpp
+	first 
+8da26ba680a4bc49270f115861546f0e|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|21|9|v|cpp
+	is_closed
+0c4f43845b5284f6e99d029956ea5214|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|18|5|V|cpp
+	    getline(input, lines);
+37d832b6a45f094e7b022f939fc82e1d|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|14|3|V|cpp
+	    for (int noOfLines = stoi(lines); noOfLines > 0; noOfLines--) {
+	      getline(input, lines);
+	      pairs.push_back(lines);
+	    }
+46d351d5e9358453f7aed3e7bc8018dc|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|16|5|V|cpp
+	  for(auto x : pairs){
+	    cout << x;
+	  input.close();
+c0d03ff9211439e0bb2f6fd607b18957|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|15|17|V|cpp
+	    while(input){
+	      getline(input, lines);
+	    }
+a43c1b0aa53a0c908810c06ab1ff3967|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|14|11|v|cpp
+	input
+cd94946a10dc20ab993b24eeb1e5b23e|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|14|5|V|cpp
+	    while(true){
+b326b5062b2f0e69046810717534cb09|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|14|11|v|cpp
+	true
+8d65efc83f4032335c3ba49bfe874885|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|16|7|V|cpp
+	      int noOfLines = stoi(lines);
+86ee2ba55aa03b06900298d3c1884440|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|20|12|v|cpp
+	int 
+980da98409d058c365664ff7ea33dd6b|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|20|22|v|cpp
+	lines
+e272a9184b59fdc5ce0144acbfd5a64d|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|20|31|v|cpp
+	noOfLines 
+28562ad0b280717666fea80724930403|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|20|38|v|cpp
+	noOfLines--
+d82913bd584ba62f8ae03323703e07ff|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|22|9|V|cpp
+	        input >> store >> lat >> lng);
+2ab640573cddfcb9d5e97f8477f796e0|file:///home/leo/COMPSCI320/A3/lkeo821.cpp|27|17|v|cpp
+	int lat
+f6d8b886335927d46fad323c60335d09|file:///home/leo/.config/nvim/general/settings.vim|49|74|v|vim
+	clip
+d0725417263fca45e79d061a08cfafaf|file:///home/leo/.config/nvim/andyyu2004/andy-config.vim|18|1|v|vim
+	nnoremap <leader>rl :so ~/.config/nvim/init.vim<CR>
+	n
+c3e427c0c48d197d0ab58e9351cc603d|file:///home/leo/.config/nvim/keys/mappings.vim|2|25|v|vim
+	~/.config/nvim/init.vim<CR>
+	

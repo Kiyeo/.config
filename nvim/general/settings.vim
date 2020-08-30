@@ -32,10 +32,20 @@ set nowritebackup                       " This is recommended by coc
 set updatetime=300                      " Faster completion
 set timeoutlen=500                      " By default timeoutlen is 1000 ms
 set formatoptions-=cro                  " Stop newline continution of comments
-set clipboard=unnamedplus               " Copy paste between vim and everything else
+"set clipboard=unnamedplus               " Copy paste between vim and everything else
 "set autochdir                           " Your working directory will always be the same as your working directory
 
 au! BufWritePost $MYVIMRC source %      " auto source when writing to init.vm alternatively you can run :source $MYVIMRC
 
 "  " You can't stop me
 cmap w!! w !sudo tee %"
+
+
+" WSL yank support
+let s:clip = '/mnt/c/Windows/System32/clip.exe'  " change this path according to your mount point
+if executable(s:clip)
+    augroup WSLYank
+        autocmd!
+        autocmd TextYankPost * if v:event.operator ==# 'y' | call system('cat |' . s:clip, @0) | endif
+    augroup END
+endif
