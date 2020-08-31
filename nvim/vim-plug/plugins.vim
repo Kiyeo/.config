@@ -5,4 +5,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 	Plug 'neoclide/coc.nvim', {'branch': 'release'}
   "Themes"
   Plug 'liuchengxu/space-vim-dark' 
+  "Delete buffers without closing windows or messing up layouts"
+  Plug 'moll/vim-bbye'
 call plug#end()
