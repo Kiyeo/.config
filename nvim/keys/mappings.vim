@@ -39,6 +39,9 @@ inoremap <expr><TAB> pumvisible() ? "\<C-n>" : "\<TAB>"
 vnoremap < <gv
 vnoremap > >gv
 
+" Goto end of line
+nnoremap <leader> l $
+
 " Better window/split navigation
 nnoremap <C-h> <C-w>h
 nnoremap <C-j> <C-w>j
