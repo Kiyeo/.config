@@ -48,5 +48,9 @@ nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
 nnoremap <C-l> <C-w>l
 
+" Switch to Terminal-Normal mode when in embedded terminal
+tnoremap <C-w> <C-\><C-n><C-w>
+
+tnoremap <C-w> <C-\><C-n><C-w>
 nnoremap <Leader>o o<Esc>^Da
 nnoremap <Leader>O O<Esc>^Da
