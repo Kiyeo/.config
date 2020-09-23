@@ -1,3 +1,6 @@
+" set leader key
+let g:mapleader = "\<Space>"
+
 " Reload init.vim file
 nnoremap <leader>rl :so ~/.config/nvim/init.vim<CR>
 " Shortcut to init.vim file that loads it into buffer
@@ -51,6 +54,6 @@ nnoremap <C-l> <C-w>l
 " Switch to Terminal-Normal mode when in embedded terminal
 tnoremap <C-w> <C-\><C-n><C-w>
 
-tnoremap <C-w> <C-\><C-n><C-w>
 nnoremap <Leader>o o<Esc>^Da
 nnoremap <Leader>O O<Esc>^Da
+

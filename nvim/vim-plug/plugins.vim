@@ -9,4 +9,12 @@ call plug#begin('~/.config/nvim/autoload/plugged')
   Plug 'moll/vim-bbye'
   "Clang formatter"
   Plug 'rhysd/vim-clang-format'
+  "Denite"
+  if has('nvim')
+    Plug 'Shougo/denite.nvim', { 'do': ':UpdateRemotePlugins' }
+  else
+    Plug 'Shougo/denite.nvim'
+    Plug 'roxma/nvim-yarp'
+    Plug 'roxma/vim-hug-neovim-rpc'
+  endif
 call plug#end()
