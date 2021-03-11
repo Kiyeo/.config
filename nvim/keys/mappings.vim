@@ -57,3 +57,6 @@ tnoremap <C-w> <C-\><C-n><C-w>
 nnoremap <Leader>o o<Esc>^Da
 nnoremap <Leader>O O<Esc>^Da
 
+" Clear Netrw from buffer after selecting a directory path
+autocmd FileType netrw setl bufhidden=wipe
+let g:netrw_fastbrowse = 0
