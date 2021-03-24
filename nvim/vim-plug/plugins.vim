@@ -4,7 +4,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 	"Conquer of Completion"
 	Plug 'neoclide/coc.nvim', {'branch': 'release'}
   "Themes"
-  Plug 'liuchengxu/space-vim-dark' 
+  "Plug 'liuchengxu/space-vim-dark' 
+  Plug 'w0ng/vim-hybrid'
   "Delete buffers without closing windows or messing up layouts"
   Plug 'moll/vim-bbye'
   "Clang formatter"

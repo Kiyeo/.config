@@ -31,6 +31,8 @@ set timeoutlen=500                      " By default timeoutlen is 1000 ms
 set formatoptions-=cro                  " Stop newline continution of comments
 set clipboard=unnamedplus               " Copy paste between vim and everything else
 "set autochdir                           " Your working directory will always be the same as your working directory
+let $NVIM_TUI_ENABLE_TRUE_COLOR=1       " 256 color
+set termguicolors
 
 au! BufWritePost $MYVIMRC source %      " auto source when writing to init.vm alternatively you can run :source $MYVIMRC
 
