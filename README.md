@@ -2,6 +2,7 @@
 
 # Clipboard
 In init.vim or .vimrc put set clipboard=unnamedplus.
+
 Execute the following commands:
 
 ```
