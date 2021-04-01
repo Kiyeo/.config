@@ -15,4 +15,5 @@ sudo mv /tmp/win32yank.exe /usr/local/bin
 # TODO
 
 Use lsp instead of CoC.
+
 Switch to .lua sometime?
