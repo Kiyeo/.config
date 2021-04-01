@@ -14,4 +14,4 @@ sudo mv /tmp/win32yank.exe /usr/local/bin
 
 # TODO
 
-Switch to .lua sometime
+Switch to .lua sometime?
